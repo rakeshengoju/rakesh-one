@@ -1,4 +1,1 @@
-FROM ubuntu
-RUN touch file1 file2 aws
-HELLO THIS IS EXTRA DATA WE ARE ADDING TO THIS FILE
-ADDING SOME MORE CONTENT
+hi my name is meena and i am writng this code for the practice do not give me an error for this file keep in mind please
